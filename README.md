@@ -22,3 +22,5 @@ The time (frame) for each eclosion event and the position of the pupa are record
 
 `create_mosaik()`
 The script can create a mosaik of frames just before and after the eclosion. This can be used for quality control and to exclude detections.
+
+![Eclosion events](docs/eclosion.gif)
