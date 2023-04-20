@@ -21,4 +21,4 @@ The difference in brightness for an eclosion event is defined in `diff_hatch`.
 The time (frame) for each eclosion event and the position of the pupa are recorded and can be exported as a csv file for further analysis.
 
 `create_mosaik()`
-The script also creates a mosaik of frames just before and after the eclosion. This can be used for quality control and to exclude detections.
+The script can create a mosaik of frames just before and after the eclosion. This can be used for quality control and to exclude detections.
