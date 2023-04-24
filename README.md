@@ -27,3 +27,14 @@ The script can create a mosaic of frames just before and after the eclosion even
 You set the number of frames before and after the event by `timewindow_hatch`, `mosaic_size` defines the width and height of a single tile in the mosaic. 
 
 ![Eclosion events](docs/eclosion.gif)
+
+**EclosionDetector** has been used here:
+
+    @article{Bidell.2023,
+        author = {Bidell, Daniel and Feige, Natalie-Danielle and Triphan, Tilman and Pauls, Dennis and Helfrich-Förster, Charlotte and Selcho, Mareike},
+        title = {Immediate effects of light on circadian eclosion and locomotor activity depend on distinct sensory input pathways},
+        year = {2023},
+        doi = {10.1101/2023.04.21.537872},
+        URL = {https://www.biorxiv.org/content/10.1101/2023.04.21.537872v2},
+        eprint = {https://www.biorxiv.org/content/10.1101/2023.04.21.537872v2.full.pdf},
+        journal = {bioRxiv}}		
